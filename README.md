@@ -37,7 +37,9 @@ $ npm install --global expo-cli
 
 A instalação de uma IDE para poder analisar o código, visualizar o projeto por trás de sua execução como um todo. A escolha fica a critério e gosto de quem vai utilizar, mas recomendo utilizar VS Code.
 Para instalar, acesse o link abaixo e baixe a versão mais recente.
-| VS Code | https://code.visualstudio.com/Download |
+
+| VS Code | https://code.visualstudio.com/Download  |
+| ------ | ------ |
 
 
 ## Executar o projeto

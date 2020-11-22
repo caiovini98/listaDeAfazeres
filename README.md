@@ -31,7 +31,7 @@ $ yarn --version
 
 Para instalar o Expo, é necessário abrir o terminal em modo administrador e executar o seguinte comando:
 ```sh
-$ yarn install --global expo-cli
+$ npm install --global expo-cli
 ```
 ## IDE
 
@@ -48,13 +48,18 @@ Para executar o projeto, abra o terminal como administrador. Navegue até o loca
 ```sh
 $ C:\Users\caioPC> cd meuApp  
 ```
+Para adicionar as dependencias dos yarn ao projeto, execute o comando abaixo:
+```sh
+$ C:\Users\caioPC\meuApp yarn add expo
+```
 Após chegar até o local do projeto, execute-o utilizando o Yarn, seguindo o exemplo abaixo:
 ```sh
-$ C:\Users\caioPC\meuApp yarn start  
+$ C:\Users\caioPC\meuApp yarn start
 ```
+Caso utilize o VS Code como IDE e queira abrir o projeto nele, execute o comando abaixo dentro da pasta do projeto:
+```sh
+$ C:\Users\caioPC\meuApp code . 
+```
+
 >Após o projeto ser aberto, abrirá automaticamente uma pagina no navegador, a "localhost". Quando aberta, não feche o terminal e nem a página.
 >Você pode abrir o aplicativo tanto em um emulador IOS (se estiver em um SO Mac) ou Android, quanto no celular.
-
-## Abrindo aplicativo pelo celular
-
-Para abrir o projeto pelo celular, baixe o aplicativo "Expo" na PlayStore (Android). Após baixado, abra-o. Quando aberto, vá em "Projects" e clique em "Scan QR Code". Volte ao navegador do localhost, que será aberto após execução do projeto, e no canto inferior esquerdo haverá um QR Code. Aproxime a câmera do smartphoneao QR Code, espere carregar e abrirá o aplicativo no celular.

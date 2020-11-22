@@ -37,8 +37,6 @@ $ npm install --global expo-cli
 
 A instalação de uma IDE para poder analisar o código, visualizar o projeto por trás de sua execução como um todo. A escolha fica a critério e gosto de quem vai utilizar, mas recomendo utilizar VS Code.
 Para instalar, acesse o link abaixo e baixe a versão mais recente.
-|  |  |
-| ------ | ------ |
 | VS Code | https://code.visualstudio.com/Download |
 
 
@@ -46,7 +44,7 @@ Para instalar, acesse o link abaixo e baixe a versão mais recente.
 
 Para executar o projeto, abra o terminal (prompt) de comandos como administrador. Navegue até o local onde foi baixado o projeto. Exemplo abaixo:
 ```sh
-$ C:\Users\caioPC> cd meuApp  
+$ C:\Users\caioPC cd meuApp  
 ```
 Para adicionar as dependencias dos yarn ao projeto, execute o comando abaixo:
 ```sh

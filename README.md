@@ -5,8 +5,9 @@ Uma simples "List To Do" utilizando React Native. Essa lista armazena no disposi
 ## Execução do projeto
 
 Para poder executar o projeto é necessário que tenha instalado na máquina:  
-| Node.js | https://nodejs.org/en/|
+| Arquivos| Site|
 | ------ | ------ |
+| Node.js | https://nodejs.org/en/|
 | Yarn | https://classic.yarnpkg.com/en/docs/install#windows-stable |
 | Expo |https://expo.io/|
 
